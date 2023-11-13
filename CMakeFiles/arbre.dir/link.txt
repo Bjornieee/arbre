@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/arbre.dir/main.c.o CMakeFiles/arbre.dir/binarytree.c.o CMakeFiles/arbre.dir/stack.c.o -o arbre 
